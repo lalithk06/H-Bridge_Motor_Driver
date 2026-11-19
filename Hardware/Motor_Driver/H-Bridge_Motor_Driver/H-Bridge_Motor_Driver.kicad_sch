@@ -1617,6 +1617,304 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "WA-MTAB:WA-MTAB"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "MP"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Value" "7471287"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Footprint" "WA-MTAB:WA-MTAB_7471287"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "0.250 (6.35mm) Quick Connect Male Solder Connector Non-Insulated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Würth Elektronik"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8564251&manufacturer=Würth Elektronik&part_name=7471287&search_term=quick connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "GENDER" "Male"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MOUNT" "THT"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/7471287.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "7471287"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PITCH" "5.08mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PART-NUMBER" "7471287"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "BLADE-DESIGN" "6.35mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "TYPE" "Vertical"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "WA-MTAB_0_0"
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3.3V"
 			(power global)
 			(pin_numbers
@@ -1897,6 +2195,18 @@
 		(uuid "72c67d14-7bea-45c3-997f-db252a1cce6a")
 	)
 	(rectangle
+		(start 105.41 16.51)
+		(end 281.94 71.12)
+		(stroke
+			(width 0)
+			(type dash_dot)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c2d8268e-a29f-4820-a4b1-703b4ef98410")
+	)
+	(rectangle
 		(start 13.97 74.93)
 		(end 283.21 162.56)
 		(stroke
@@ -1907,6 +2217,18 @@
 			(type none)
 		)
 		(uuid "e2a9cae6-16fb-41b4-a408-884bfa794c94")
+	)
+	(text "LOAD VOLTAGE AND MOTOR"
+		(exclude_from_sim no)
+		(at 122.682 20.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "23b158d1-853c-46bf-9cab-21675239abdf")
 	)
 	(text "MOUNTING HOLES\n"
 		(exclude_from_sim no)
@@ -1932,7 +2254,7 @@
 		)
 		(uuid "81f8decc-a75d-4e01-b68e-99c615892eda")
 	)
-	(text "SIGNAL & DRIVER IN"
+	(text "SIGNAL AND DRIVER IN"
 		(exclude_from_sim no)
 		(at 28.194 20.574 0)
 		(effects
@@ -1945,158 +2267,158 @@
 		(uuid "d34d8640-e853-4b28-9599-d1948902e00e")
 	)
 	(junction
-		(at 172.72 152.4)
+		(at 172.72 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04f06db5-af41-4695-b9df-024e0933c120")
 	)
 	(junction
-		(at 63.5 123.19)
+		(at 63.5 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16a159e3-45e5-4a1d-a695-109e66c891cf")
 	)
 	(junction
-		(at 194.31 130.81)
+		(at 194.31 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "177ef0ea-8ad9-40ce-81b4-a8cbedc4ff3c")
 	)
 	(junction
-		(at 212.09 142.24)
+		(at 212.09 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24379c88-f8f6-41f4-b700-7f55426bc8c5")
 	)
 	(junction
-		(at 83.82 142.24)
+		(at 83.82 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2abca997-931b-4703-a9d7-7f51f8ec4fcb")
 	)
 	(junction
-		(at 172.72 109.22)
+		(at 172.72 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2cd91ada-c0c9-4769-b61c-06713ef4e863")
 	)
 	(junction
-		(at 83.82 119.38)
+		(at 83.82 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "56f2b8f9-75a2-4114-9a64-73e7a74d432d")
 	)
 	(junction
-		(at 71.12 127)
+		(at 71.12 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6af022b2-3fde-4dc8-911d-612c51d83bd3")
 	)
 	(junction
-		(at 156.21 109.22)
+		(at 156.21 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "726821df-93dc-4889-a0a5-38821a4f3f18")
 	)
 	(junction
-		(at 233.68 133.35)
+		(at 233.68 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7494f193-8b73-4d1d-8ff3-aa7c36d80492")
 	)
 	(junction
-		(at 63.5 133.35)
+		(at 63.5 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c0257b7-99b4-4e01-9a1f-6c0fdaf852de")
 	)
 	(junction
-		(at 252.73 113.03)
+		(at 252.73 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e4b9c9f-f3da-4189-bde7-630997bcf2cf")
 	)
 	(junction
-		(at 44.45 113.03)
+		(at 44.45 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84c54240-9c77-43d0-b225-4512eec661ac")
 	)
 	(junction
-		(at 123.19 109.22)
+		(at 123.19 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e6a02bc-5a49-48be-9c55-fb8270b26e80")
 	)
 	(junction
-		(at 115.57 109.22)
+		(at 115.57 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9224a656-81a1-4cd5-a17c-1b4f932bee94")
 	)
 	(junction
-		(at 233.68 123.19)
+		(at 233.68 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97c27f41-16f8-4aa5-915f-7e554bcb37df")
 	)
 	(junction
-		(at 115.57 130.81)
+		(at 115.57 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0df145a-e320-4d39-a4a9-2e97379495e5")
 	)
 	(junction
-		(at 212.09 119.38)
+		(at 212.09 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5f27ba7-9bf8-4e29-8e81-aa012588bc48")
 	)
 	(junction
-		(at 99.06 130.81)
+		(at 99.06 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aa5ddea6-a65a-4784-bbfd-ce0fd53af224")
 	)
 	(junction
-		(at 224.79 125.73)
+		(at 224.79 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b430011c-f664-46a4-823f-0ea9ce24d1a1")
 	)
 	(junction
-		(at 139.7 109.22)
+		(at 139.7 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb20037e-9149-4359-a901-e23e677bea7e")
 	)
 	(junction
-		(at 172.72 130.81)
+		(at 172.72 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3c6b608-b433-4dd7-8c71-8b984e2c57e1")
 	)
 	(junction
-		(at 71.12 137.16)
+		(at 71.12 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1928464-6614-4feb-8594-868e1cff210f")
 	)
 	(junction
-		(at 224.79 137.16)
+		(at 224.79 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f53acf24-dbc5-46b1-b6f6-a0192f042b3c")
 	)
 	(junction
-		(at 115.57 152.4)
+		(at 115.57 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa61bc7a-e5ba-40a2-9fe9-39b63f7e8a78")
 	)
 	(wire
 		(pts
-			(xy 71.12 148.59) (xy 73.66 148.59)
+			(xy 71.12 144.78) (xy 73.66 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2106,7 +2428,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 100.33) (xy 248.92 100.33)
+			(xy 252.73 96.52) (xy 248.92 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +2438,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 130.81) (xy 99.06 137.16)
+			(xy 99.06 127) (xy 99.06 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2126,7 +2448,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 115.57) (xy 71.12 115.57)
+			(xy 73.66 111.76) (xy 71.12 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2136,7 +2458,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 123.19) (xy 233.68 113.03)
+			(xy 233.68 119.38) (xy 233.68 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2146,7 +2468,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 130.81) (xy 119.38 130.81)
+			(xy 115.57 127) (xy 119.38 127)
 		)
 		(stroke
 			(width 0)
@@ -2156,7 +2478,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 152.4) (xy 115.57 152.4)
+			(xy 99.06 148.59) (xy 115.57 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2166,7 +2488,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 130.81) (xy 115.57 130.81)
+			(xy 99.06 127) (xy 115.57 127)
 		)
 		(stroke
 			(width 0)
@@ -2176,7 +2498,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 130.81) (xy 224.79 130.81)
+			(xy 194.31 127) (xy 224.79 127)
 		)
 		(stroke
 			(width 0)
@@ -2186,7 +2508,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 132.08) (xy 265.43 132.08)
+			(xy 262.89 128.27) (xy 265.43 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2196,7 +2518,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 113.03) (xy 59.69 113.03)
+			(xy 63.5 109.22) (xy 59.69 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2206,7 +2528,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 109.22) (xy 172.72 109.22)
+			(xy 194.31 105.41) (xy 172.72 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2216,7 +2538,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 130.81) (xy 115.57 138.43)
+			(xy 115.57 127) (xy 115.57 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2226,7 +2548,17 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 133.35) (xy 63.5 133.35)
+			(xy 193.04 39.37) (xy 204.47 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1660ce08-e11f-4a7e-b124-b15479ac640c")
+	)
+	(wire
+		(pts
+			(xy 72.39 129.54) (xy 63.5 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2236,7 +2568,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 109.22) (xy 139.7 109.22)
+			(xy 123.19 105.41) (xy 139.7 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2246,7 +2578,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 114.3) (xy 194.31 109.22)
+			(xy 194.31 110.49) (xy 194.31 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2256,7 +2588,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 123.19) (xy 115.57 130.81)
+			(xy 115.57 119.38) (xy 115.57 127)
 		)
 		(stroke
 			(width 0)
@@ -2266,7 +2598,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 109.22) (xy 172.72 115.57)
+			(xy 172.72 105.41) (xy 172.72 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2276,7 +2608,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 123.19) (xy 233.68 125.73)
+			(xy 233.68 119.38) (xy 233.68 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2286,7 +2618,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 118.11) (xy 123.19 119.38)
+			(xy 123.19 114.3) (xy 123.19 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2296,7 +2628,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 130.81) (xy 72.39 133.35)
+			(xy 72.39 127) (xy 72.39 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2306,7 +2638,17 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 142.24) (xy 212.09 142.24)
+			(xy 193.04 49.53) (xy 204.47 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22dec5e6-5388-413f-83a4-2156037d9f27")
+	)
+	(wire
+		(pts
+			(xy 201.93 138.43) (xy 212.09 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2316,7 +2658,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 127) (xy 81.28 127)
+			(xy 83.82 123.19) (xy 81.28 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2336,7 +2678,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 133.35) (xy 233.68 133.35)
+			(xy 242.57 129.54) (xy 233.68 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2346,7 +2688,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 137.16) (xy 212.09 137.16)
+			(xy 214.63 133.35) (xy 212.09 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2356,7 +2698,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 109.22) (xy 115.57 109.22)
+			(xy 99.06 105.41) (xy 115.57 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2366,7 +2708,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 113.03) (xy 237.49 113.03)
+			(xy 233.68 109.22) (xy 237.49 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2376,7 +2718,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 137.16) (xy 71.12 137.16)
+			(xy 73.66 133.35) (xy 71.12 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2396,7 +2738,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 137.16) (xy 83.82 142.24)
+			(xy 83.82 133.35) (xy 83.82 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2406,7 +2748,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 148.59) (xy 214.63 148.59)
+			(xy 212.09 144.78) (xy 214.63 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2416,7 +2758,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 109.22) (xy 156.21 110.49)
+			(xy 156.21 105.41) (xy 156.21 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2426,7 +2768,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 137.16) (xy 83.82 137.16)
+			(xy 81.28 133.35) (xy 83.82 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2436,7 +2778,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 100.33) (xy 48.26 100.33)
+			(xy 44.45 96.52) (xy 48.26 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2446,7 +2788,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 147.32) (xy 99.06 152.4)
+			(xy 99.06 143.51) (xy 99.06 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2456,7 +2798,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 137.16) (xy 212.09 148.59)
+			(xy 212.09 133.35) (xy 212.09 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2466,7 +2808,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 115.57) (xy 83.82 119.38)
+			(xy 83.82 111.76) (xy 83.82 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2476,7 +2818,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 127) (xy 73.66 127)
+			(xy 71.12 123.19) (xy 73.66 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2486,7 +2828,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 123.19) (xy 63.5 113.03)
+			(xy 63.5 119.38) (xy 63.5 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2496,7 +2838,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 137.16) (xy 224.79 148.59)
+			(xy 224.79 133.35) (xy 224.79 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2506,7 +2848,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 113.03) (xy 252.73 116.84)
+			(xy 252.73 109.22) (xy 252.73 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2516,7 +2858,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 125.73) (xy 222.25 125.73)
+			(xy 224.79 121.92) (xy 222.25 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2526,7 +2868,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 142.24) (xy 91.44 142.24)
+			(xy 83.82 138.43) (xy 91.44 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2536,7 +2878,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 130.81) (xy 224.79 133.35)
+			(xy 224.79 127) (xy 224.79 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2546,7 +2888,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 152.4) (xy 194.31 152.4)
+			(xy 172.72 148.59) (xy 194.31 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2566,7 +2908,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 114.3) (xy 212.09 114.3)
+			(xy 214.63 110.49) (xy 212.09 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2576,7 +2918,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 127) (xy 242.57 127)
+			(xy 224.79 123.19) (xy 242.57 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2586,7 +2928,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 109.22) (xy 123.19 109.22)
+			(xy 115.57 105.41) (xy 123.19 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2596,7 +2938,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 152.4) (xy 115.57 146.05)
+			(xy 115.57 148.59) (xy 115.57 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2606,7 +2948,17 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 114.3) (xy 224.79 125.73)
+			(xy 204.47 29.21) (xy 193.04 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ad2af07-1d88-46af-8dbb-19a2ff6d0479")
+	)
+	(wire
+		(pts
+			(xy 224.79 110.49) (xy 224.79 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2626,7 +2978,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 130.81) (xy 194.31 137.16)
+			(xy 194.31 127) (xy 194.31 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2636,7 +2988,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 113.03) (xy 44.45 116.84)
+			(xy 44.45 109.22) (xy 44.45 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2646,7 +2998,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 109.22) (xy 139.7 110.49)
+			(xy 139.7 105.41) (xy 139.7 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2656,7 +3008,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 100.33) (xy 238.76 100.33)
+			(xy 241.3 96.52) (xy 238.76 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2676,7 +3028,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 109.22) (xy 123.19 110.49)
+			(xy 123.19 105.41) (xy 123.19 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2686,7 +3038,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 143.51) (xy 252.73 146.05)
+			(xy 252.73 139.7) (xy 252.73 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2696,7 +3048,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 128.27) (xy 34.29 128.27)
+			(xy 30.48 124.46) (xy 34.29 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2706,7 +3058,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 100.33) (xy 252.73 113.03)
+			(xy 252.73 96.52) (xy 252.73 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2716,7 +3068,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 114.3) (xy 99.06 109.22)
+			(xy 99.06 110.49) (xy 99.06 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2726,7 +3078,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 132.08) (xy 34.29 132.08)
+			(xy 30.48 128.27) (xy 34.29 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2746,7 +3098,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 124.46) (xy 194.31 130.81)
+			(xy 194.31 120.65) (xy 194.31 127)
 		)
 		(stroke
 			(width 0)
@@ -2756,7 +3108,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 115.57) (xy 71.12 127)
+			(xy 71.12 111.76) (xy 71.12 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2766,7 +3118,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 123.19) (xy 233.68 123.19)
+			(xy 242.57 119.38) (xy 233.68 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2776,7 +3128,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 109.22) (xy 115.57 115.57)
+			(xy 115.57 105.41) (xy 115.57 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2786,7 +3138,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 115.57) (xy 83.82 115.57)
+			(xy 81.28 111.76) (xy 83.82 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2806,7 +3158,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 133.35) (xy 233.68 133.35)
+			(xy 224.79 129.54) (xy 233.68 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2816,7 +3168,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 127) (xy 224.79 125.73)
+			(xy 224.79 123.19) (xy 224.79 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2826,7 +3178,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 119.38) (xy 212.09 125.73)
+			(xy 212.09 115.57) (xy 212.09 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2836,7 +3188,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 113.03) (xy 52.07 113.03)
+			(xy 44.45 109.22) (xy 52.07 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2846,7 +3198,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 114.3) (xy 224.79 114.3)
+			(xy 222.25 110.49) (xy 224.79 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2866,7 +3218,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 130.81) (xy 72.39 130.81)
+			(xy 99.06 127) (xy 72.39 127)
 		)
 		(stroke
 			(width 0)
@@ -2896,7 +3248,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 109.22) (xy 172.72 109.22)
+			(xy 156.21 105.41) (xy 172.72 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2906,7 +3258,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 124.46) (xy 99.06 130.81)
+			(xy 99.06 120.65) (xy 99.06 127)
 		)
 		(stroke
 			(width 0)
@@ -2916,7 +3268,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 119.38) (xy 212.09 119.38)
+			(xy 201.93 115.57) (xy 212.09 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2926,7 +3278,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 123.19) (xy 63.5 123.19)
+			(xy 54.61 119.38) (xy 63.5 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2936,7 +3288,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 152.4) (xy 172.72 152.4)
+			(xy 115.57 148.59) (xy 172.72 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2946,7 +3298,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 130.81) (xy 172.72 130.81)
+			(xy 167.64 127) (xy 172.72 127)
 		)
 		(stroke
 			(width 0)
@@ -2956,7 +3308,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 123.19) (xy 172.72 130.81)
+			(xy 172.72 119.38) (xy 172.72 127)
 		)
 		(stroke
 			(width 0)
@@ -2966,7 +3318,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 127) (xy 71.12 127)
+			(xy 54.61 123.19) (xy 71.12 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2976,7 +3328,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 119.38) (xy 156.21 119.38)
+			(xy 123.19 115.57) (xy 156.21 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2986,7 +3338,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 147.32) (xy 194.31 152.4)
+			(xy 194.31 143.51) (xy 194.31 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2996,7 +3348,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 118.11) (xy 139.7 120.65)
+			(xy 139.7 114.3) (xy 139.7 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3006,7 +3358,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 148.59) (xy 81.28 148.59)
+			(xy 83.82 144.78) (xy 81.28 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3016,7 +3368,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 119.38) (xy 83.82 127)
+			(xy 83.82 115.57) (xy 83.82 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3026,7 +3378,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 119.38) (xy 156.21 118.11)
+			(xy 156.21 115.57) (xy 156.21 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3036,7 +3388,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 137.16) (xy 71.12 137.16)
+			(xy 54.61 133.35) (xy 71.12 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3046,7 +3398,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 128.27) (xy 265.43 128.27)
+			(xy 262.89 124.46) (xy 265.43 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3056,7 +3408,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 109.22) (xy 156.21 109.22)
+			(xy 139.7 105.41) (xy 156.21 105.41)
 		)
 		(stroke
 			(width 0)
@@ -3066,7 +3418,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 113.03) (xy 245.11 113.03)
+			(xy 252.73 109.22) (xy 245.11 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3076,7 +3428,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 152.4) (xy 172.72 146.05)
+			(xy 172.72 148.59) (xy 172.72 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3096,7 +3448,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 137.16) (xy 224.79 137.16)
+			(xy 222.25 133.35) (xy 224.79 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3106,7 +3458,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 105.41) (xy 139.7 109.22)
+			(xy 139.7 101.6) (xy 139.7 105.41)
 		)
 		(stroke
 			(width 0)
@@ -3116,7 +3468,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 137.16) (xy 242.57 137.16)
+			(xy 224.79 133.35) (xy 242.57 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3136,7 +3488,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 148.59) (xy 222.25 148.59)
+			(xy 224.79 144.78) (xy 222.25 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3146,7 +3498,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 130.81) (xy 194.31 130.81)
+			(xy 172.72 127) (xy 194.31 127)
 		)
 		(stroke
 			(width 0)
@@ -3176,7 +3528,17 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 114.3) (xy 212.09 119.38)
+			(xy 193.04 39.37) (xy 193.04 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4c93c10-84e3-446b-b309-97352ac64e08")
+	)
+	(wire
+		(pts
+			(xy 212.09 110.49) (xy 212.09 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3186,7 +3548,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 123.19) (xy 63.5 125.73)
+			(xy 63.5 119.38) (xy 63.5 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3196,7 +3558,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 125.73) (xy 214.63 125.73)
+			(xy 212.09 121.92) (xy 214.63 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3206,7 +3568,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 100.33) (xy 44.45 113.03)
+			(xy 44.45 96.52) (xy 44.45 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3216,7 +3578,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 130.81) (xy 172.72 138.43)
+			(xy 172.72 127) (xy 172.72 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3226,7 +3588,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 133.35) (xy 63.5 133.35)
+			(xy 54.61 129.54) (xy 63.5 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3236,7 +3598,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 100.33) (xy 58.42 100.33)
+			(xy 193.04 59.69) (xy 204.47 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0065b79-879d-46a1-b285-90f562425220")
+	)
+	(wire
+		(pts
+			(xy 55.88 96.52) (xy 58.42 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3256,7 +3628,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 119.38) (xy 91.44 119.38)
+			(xy 83.82 115.57) (xy 91.44 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3266,7 +3638,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 143.51) (xy 44.45 146.05)
+			(xy 44.45 139.7) (xy 44.45 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3276,7 +3648,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 142.24) (xy 83.82 148.59)
+			(xy 83.82 138.43) (xy 83.82 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3286,7 +3658,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 137.16) (xy 71.12 148.59)
+			(xy 71.12 133.35) (xy 71.12 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3294,9 +3666,33 @@
 		)
 		(uuid "ff84919d-8b1b-4079-9552-4b8b1f5838d7")
 	)
+	(global_label "MTR_V"
+		(shape input)
+		(at 193.04 29.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "069caa03-0265-4ee3-beb1-7e003ddce945")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.3096 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "EN"
 		(shape input)
-		(at 265.43 132.08 0)
+		(at 265.43 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3306,7 +3702,7 @@
 		)
 		(uuid "142898ba-6f81-4601-8b46-861cd9b96965")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 270.8947 132.08 0)
+			(at 270.8947 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3320,7 +3716,7 @@
 	)
 	(global_label "MTR1"
 		(shape input)
-		(at 119.38 130.81 0)
+		(at 119.38 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3330,7 +3726,7 @@
 		)
 		(uuid "1e6c604c-c196-4d75-bce8-7409dd074d01")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.2637 130.81 0)
+			(at 127.2637 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3342,9 +3738,33 @@
 			)
 		)
 	)
+	(global_label "MTR1"
+		(shape input)
+		(at 193.04 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2028cc03-7f3e-4187-922a-865c2d0e99cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 185.1563 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "PWM{slash}SIG{slash}2"
 		(shape input)
-		(at 265.43 128.27 0)
+		(at 265.43 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3354,7 +3774,7 @@
 		)
 		(uuid "3f5b6c7c-55c2-41d2-9852-d24c7c8800f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 279.5428 128.27 0)
+			(at 279.5428 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3368,7 +3788,7 @@
 	)
 	(global_label "PWM{slash}SIG{slash}1"
 		(shape input)
-		(at 30.48 128.27 180)
+		(at 30.48 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3378,7 +3798,7 @@
 		)
 		(uuid "55346312-8c30-42f9-b1a9-d2beda14c849")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.3672 128.27 0)
+			(at 16.3672 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3392,7 +3812,7 @@
 	)
 	(global_label "MTR_V"
 		(shape input)
-		(at 139.7 105.41 90)
+		(at 139.7 101.6 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3402,7 +3822,7 @@
 		)
 		(uuid "64dd1194-a5d8-4653-8777-3bf4e4000d82")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.7 96.6796 90)
+			(at 139.7 92.8696 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3416,7 +3836,7 @@
 	)
 	(global_label "MTR2"
 		(shape input)
-		(at 167.64 130.81 180)
+		(at 167.64 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3426,7 +3846,7 @@
 		)
 		(uuid "9646bde5-0849-4713-8279-f8afe219987b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.7563 130.81 0)
+			(at 159.7563 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3440,7 +3860,7 @@
 	)
 	(global_label "EN"
 		(shape input)
-		(at 30.48 132.08 180)
+		(at 30.48 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3450,7 +3870,7 @@
 		)
 		(uuid "aa0186e8-89e0-4e47-a701-5d132529efb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.0153 132.08 0)
+			(at 25.0153 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3507,6 +3927,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "MTR2"
+		(shape input)
+		(at 193.04 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d941ffa7-3cf1-4bcd-8909-c56c7cb8cafa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 185.1563 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -3615,7 +4059,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRF3205")
-		(at 96.52 119.38 0)
+		(at 96.52 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3626,7 +4070,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d73d835-615b-41cf-9351-f1a85e7c422b")
 		(property "Reference" "Q1"
-			(at 102.87 118.1099 0)
+			(at 102.87 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3637,7 +4081,7 @@
 			)
 		)
 		(property "Value" "IRF3205"
-			(at 102.87 120.6499 0)
+			(at 102.87 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3648,7 +4092,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 101.6 121.285 0)
+			(at 101.6 117.475 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3661,7 +4105,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf3205.pdf"
-			(at 101.6 123.19 0)
+			(at 101.6 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3673,7 +4117,7 @@
 			)
 		)
 		(property "Description" "110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB"
-			(at 96.52 119.38 0)
+			(at 96.52 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3703,7 +4147,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 63.5 129.54 180)
+		(at 63.5 125.73 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3714,7 +4158,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d7b2d07-304e-4b51-aa25-f1c2c91e919d")
 		(property "Reference" "C4"
-			(at 67.31 128.2699 0)
+			(at 67.31 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3725,7 +4169,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 67.31 130.8099 0)
+			(at 67.31 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3736,7 +4180,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.5348 125.73 0)
+			(at 62.5348 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3747,7 +4191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 129.54 0)
+			(at 63.5 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3758,7 +4202,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 63.5 129.54 0)
+			(at 63.5 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3785,7 +4229,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 218.44 114.3 90)
+		(at 218.44 110.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3796,7 +4240,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f1ebff4-29ac-421d-a053-532e229d50ed")
 		(property "Reference" "R3"
-			(at 218.44 107.95 90)
+			(at 218.44 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3806,7 +4250,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 218.44 110.49 90)
+			(at 218.44 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3816,7 +4260,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 116.078 90)
+			(at 218.44 112.268 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3827,7 +4271,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 114.3 0)
+			(at 218.44 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3838,7 +4282,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 218.44 114.3 0)
+			(at 218.44 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3865,7 +4309,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 52.07 100.33 90)
+		(at 52.07 96.52 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3876,7 +4320,7 @@
 		(fields_autoplaced yes)
 		(uuid "104d0b57-6b94-44ad-a971-0431e0d04794")
 		(property "Reference" "C3"
-			(at 52.07 92.71 90)
+			(at 52.07 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3886,7 +4330,7 @@
 			)
 		)
 		(property "Value" "10uF/25V"
-			(at 52.07 95.25 90)
+			(at 52.07 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3896,7 +4340,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 99.3648 0)
+			(at 55.88 95.5548 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3907,7 +4351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 100.33 0)
+			(at 52.07 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3918,7 +4362,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 52.07 100.33 0)
+			(at 52.07 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3945,7 +4389,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 218.44 125.73 180)
+		(at 218.44 121.92 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3956,7 +4400,7 @@
 		(fields_autoplaced yes)
 		(uuid "16f206e5-cb29-4a11-b56e-7eb4bfc619bd")
 		(property "Reference" "D9"
-			(at 218.44 119.38 0)
+			(at 218.44 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3966,7 +4410,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 218.44 121.92 0)
+			(at 218.44 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3976,7 +4420,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 218.44 121.285 0)
+			(at 218.44 117.475 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3987,7 +4431,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 218.44 125.73 0)
+			(at 218.44 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3998,7 +4442,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 218.44 125.73 0)
+			(at 218.44 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4009,7 +4453,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 218.44 125.73 0)
+			(at 218.44 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4020,7 +4464,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 218.44 125.73 0)
+			(at 218.44 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4047,7 +4491,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRF3205")
-		(at 196.85 119.38 180)
+		(at 196.85 115.57 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4058,7 +4502,7 @@
 		(fields_autoplaced yes)
 		(uuid "21c0d434-8be4-4168-bec8-c9a2af72d24f")
 		(property "Reference" "Q3"
-			(at 190.5 118.1099 0)
+			(at 190.5 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4069,7 +4513,7 @@
 			)
 		)
 		(property "Value" "IRF3205"
-			(at 190.5 120.6499 0)
+			(at 190.5 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4080,7 +4524,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 191.77 117.475 0)
+			(at 191.77 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4093,7 +4537,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf3205.pdf"
-			(at 191.77 115.57 0)
+			(at 191.77 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4105,7 +4549,7 @@
 			)
 		)
 		(property "Description" "110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB"
-			(at 196.85 119.38 0)
+			(at 196.85 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4134,8 +4578,273 @@
 		)
 	)
 	(symbol
+		(lib_id "WA-MTAB:WA-MTAB")
+		(at 209.55 29.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2cf0679d-ce5c-4f9e-8b4e-31f43cade4cc")
+		(property "Reference" "MP1"
+			(at 213.36 29.2099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "7471287"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Footprint" "WA-MTAB:WA-MTAB_7471287"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.250 (6.35mm) Quick Connect Male Solder Connector Non-Insulated"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Würth Elektronik"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8564251&manufacturer=Würth Elektronik&part_name=7471287&search_term=quick connector"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "GENDER" "Male"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MOUNT" "THT"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=snap"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/7471287.pdf"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "7471287"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PITCH" "5.08mm"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PART-NUMBER" "7471287"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "BLADE-DESIGN" "6.35mm"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "TYPE" "Vertical"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=eda"
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "bd5b8699-49cd-4669-bd1f-b2493d4c4613")
+		)
+		(pin "1"
+			(uuid "9f8e9a81-c13f-4a07-acd8-4b886b3b2ded")
+		)
+		(instances
+			(project "H-Bridge_Motor_Driver"
+				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
+					(reference "MP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "IR2401:IR2401")
-		(at 252.73 130.81 0)
+		(at 252.73 127 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4146,7 +4855,7 @@
 		(dnp no)
 		(uuid "2ec86446-8cae-4a2a-bd41-6fd57fd15674")
 		(property "Reference" "U2"
-			(at 250.5867 116.84 0)
+			(at 250.5867 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4157,7 +4866,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 257.81 127 0)
+			(at 257.81 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4167,7 +4876,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 127 0)
+			(at 257.81 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4178,7 +4887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 127 0)
+			(at 257.81 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4189,7 +4898,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 257.81 127 0)
+			(at 257.81 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4313,7 +5022,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 77.47 137.16 90)
+		(at 77.47 133.35 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4324,7 +5033,7 @@
 		(fields_autoplaced yes)
 		(uuid "337c94c2-7c2a-4993-ac21-61ded4f10132")
 		(property "Reference" "R2"
-			(at 77.47 130.81 90)
+			(at 77.47 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4334,7 +5043,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 77.47 133.35 90)
+			(at 77.47 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4344,7 +5053,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 138.938 90)
+			(at 77.47 135.128 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4355,7 +5064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 137.16 0)
+			(at 77.47 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4366,7 +5075,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 77.47 137.16 0)
+			(at 77.47 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4393,7 +5102,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRF3205")
-		(at 196.85 142.24 180)
+		(at 196.85 138.43 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4404,7 +5113,7 @@
 		(fields_autoplaced yes)
 		(uuid "35212365-d8b6-479d-92fa-0f933fd177c5")
 		(property "Reference" "Q4"
-			(at 190.5 140.9699 0)
+			(at 190.5 137.1599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4415,7 +5124,7 @@
 			)
 		)
 		(property "Value" "IRF3205"
-			(at 190.5 143.5099 0)
+			(at 190.5 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4426,7 +5135,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 191.77 140.335 0)
+			(at 191.77 136.525 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4439,7 +5148,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf3205.pdf"
-			(at 191.77 138.43 0)
+			(at 191.77 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4451,7 +5160,7 @@
 			)
 		)
 		(property "Description" "110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB"
-			(at 196.85 142.24 0)
+			(at 196.85 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4563,7 +5272,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 139.7 114.3 180)
+		(at 139.7 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4573,7 +5282,7 @@
 		(dnp no)
 		(uuid "3fa742ab-52a2-4494-b511-342eea24b8c7")
 		(property "Reference" "C6"
-			(at 143.002 115.57 0)
+			(at 143.002 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4584,7 +5293,7 @@
 			)
 		)
 		(property "Value" "470nF/100V"
-			(at 141.986 117.856 0)
+			(at 141.986 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4595,7 +5304,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.7348 110.49 0)
+			(at 138.7348 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4606,7 +5315,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 114.3 0)
+			(at 139.7 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4617,7 +5326,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 139.7 114.3 0)
+			(at 139.7 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4722,7 +5431,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 77.47 148.59 0)
+		(at 77.47 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4733,7 +5442,7 @@
 		(fields_autoplaced yes)
 		(uuid "49b91cbf-d6be-4602-ad4d-fd780a4a89dc")
 		(property "Reference" "D3"
-			(at 77.47 142.24 0)
+			(at 77.47 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4743,7 +5452,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 77.47 144.78 0)
+			(at 77.47 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4753,7 +5462,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 77.47 153.035 0)
+			(at 77.47 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4764,7 +5473,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 77.47 148.59 0)
+			(at 77.47 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4775,7 +5484,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 77.47 148.59 0)
+			(at 77.47 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4786,7 +5495,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 77.47 148.59 0)
+			(at 77.47 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4797,7 +5506,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 148.59 0)
+			(at 77.47 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4903,7 +5612,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 139.7 120.65 0)
+		(at 139.7 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4914,7 +5623,7 @@
 		(fields_autoplaced yes)
 		(uuid "65bec4a7-b97c-47f9-816c-bc49d921493f")
 		(property "Reference" "#PWR09"
-			(at 139.7 127 0)
+			(at 139.7 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4925,7 +5634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 139.7001 124.46 90)
+			(at 139.7001 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4936,7 +5645,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 120.65 0)
+			(at 139.7 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4947,7 +5656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 120.65 0)
+			(at 139.7 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4958,7 +5667,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 139.7 120.65 0)
+			(at 139.7 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4982,7 +5691,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SS34")
-		(at 172.72 119.38 270)
+		(at 172.72 115.57 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4993,7 +5702,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a6c3dbc-af04-41b5-b4c1-2ad48260c0f9")
 		(property "Reference" "D6"
-			(at 175.26 117.7924 90)
+			(at 175.26 113.9824 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5004,7 +5713,7 @@
 			)
 		)
 		(property "Value" "SS34"
-			(at 175.26 120.3324 90)
+			(at 175.26 116.5224 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5015,7 +5724,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 168.275 119.38 0)
+			(at 168.275 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5026,7 +5735,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
-			(at 172.72 119.38 0)
+			(at 172.72 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5037,7 +5746,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 172.72 119.38 0)
+			(at 172.72 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5064,7 +5773,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SS34")
-		(at 55.88 113.03 180)
+		(at 55.88 109.22 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5075,7 +5784,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b0eb0bd-18e4-4114-832a-daa490a42984")
 		(property "Reference" "D1"
-			(at 56.1975 106.68 0)
+			(at 56.1975 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5085,7 +5794,7 @@
 			)
 		)
 		(property "Value" "SS34"
-			(at 56.1975 109.22 0)
+			(at 56.1975 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5095,7 +5804,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 55.88 108.585 0)
+			(at 55.88 104.775 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5106,7 +5815,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
-			(at 55.88 113.03 0)
+			(at 55.88 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5117,7 +5826,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 55.88 113.03 0)
+			(at 55.88 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5144,7 +5853,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 218.44 148.59 180)
+		(at 218.44 144.78 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5155,7 +5864,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c736da4-03eb-401b-896e-30086515039c")
 		(property "Reference" "D10"
-			(at 218.44 142.24 0)
+			(at 218.44 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5165,7 +5874,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 218.44 144.78 0)
+			(at 218.44 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5175,7 +5884,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 218.44 144.145 0)
+			(at 218.44 140.335 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5186,7 +5895,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 218.44 148.59 0)
+			(at 218.44 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5197,7 +5906,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 218.44 148.59 0)
+			(at 218.44 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5208,7 +5917,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 218.44 148.59 0)
+			(at 218.44 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5219,7 +5928,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 218.44 148.59 0)
+			(at 218.44 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5482,7 +6191,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 218.44 137.16 90)
+		(at 218.44 133.35 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5493,7 +6202,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ea80c8d-db69-43b2-989b-59a2fdf47044")
 		(property "Reference" "R4"
-			(at 218.44 130.81 90)
+			(at 218.44 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5503,7 +6212,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 218.44 133.35 90)
+			(at 218.44 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5513,7 +6222,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 138.938 90)
+			(at 218.44 135.128 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5524,7 +6233,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 137.16 0)
+			(at 218.44 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5535,7 +6244,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 218.44 137.16 0)
+			(at 218.44 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5562,7 +6271,7 @@
 	)
 	(symbol
 		(lib_id "IR2401:IR2401")
-		(at 44.45 130.81 0)
+		(at 44.45 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5573,7 +6282,7 @@
 		(fields_autoplaced yes)
 		(uuid "75a651de-757d-41d3-9209-8d23faf05462")
 		(property "Reference" "U1"
-			(at 46.5933 116.84 0)
+			(at 46.5933 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5584,7 +6293,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 39.37 127 0)
+			(at 39.37 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5594,7 +6303,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 127 0)
+			(at 39.37 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5605,7 +6314,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 127 0)
+			(at 39.37 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5616,7 +6325,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 127 0)
+			(at 39.37 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5654,6 +6363,84 @@
 			(project "H-Bridge_Motor_Driver"
 				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 193.04 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7746d6e3-58e2-4c53-97db-623388e03710")
+		(property "Reference" "#PWR016"
+			(at 193.04 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 193.04 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 193.04 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e07034b-cc64-48e8-856b-c6df0d92d362")
+		)
+		(instances
+			(project "H-Bridge_Motor_Driver"
+				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -5817,7 +6604,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 156.21 114.3 180)
+		(at 156.21 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5827,7 +6614,7 @@
 		(dnp no)
 		(uuid "85a63f72-5c01-4080-90ce-75a6ad454b47")
 		(property "Reference" "C7"
-			(at 159.512 115.57 0)
+			(at 159.512 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5838,7 +6625,7 @@
 			)
 		)
 		(property "Value" "470nF/100V"
-			(at 158.496 117.856 0)
+			(at 158.496 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5849,7 +6636,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 155.2448 110.49 0)
+			(at 155.2448 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5860,7 +6647,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 114.3 0)
+			(at 156.21 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5871,7 +6658,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 156.21 114.3 0)
+			(at 156.21 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5969,6 +6756,271 @@
 			(project "H-Bridge_Motor_Driver"
 				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WA-MTAB:WA-MTAB")
+		(at 209.55 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "89c3ff1e-2295-4511-bf11-e750f77cdd0a")
+		(property "Reference" "MP3"
+			(at 213.36 49.5299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "7471287"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Footprint" "WA-MTAB:WA-MTAB_7471287"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.250 (6.35mm) Quick Connect Male Solder Connector Non-Insulated"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Würth Elektronik"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8564251&manufacturer=Würth Elektronik&part_name=7471287&search_term=quick connector"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "GENDER" "Male"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MOUNT" "THT"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=snap"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/7471287.pdf"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "7471287"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PITCH" "5.08mm"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PART-NUMBER" "7471287"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "BLADE-DESIGN" "6.35mm"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "TYPE" "Vertical"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=eda"
+			(at 209.55 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "ca89b6bb-315b-4c69-893c-09a48305c6b6")
+		)
+		(pin "1"
+			(uuid "c6b09a84-cc8d-4bd8-bbc7-9761670b904d")
+		)
+		(instances
+			(project "H-Bridge_Motor_Driver"
+				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
+					(reference "MP3")
 					(unit 1)
 				)
 			)
@@ -6136,7 +7188,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 77.47 115.57 90)
+		(at 77.47 111.76 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6147,7 +7199,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b477f44-0f46-42e9-8239-269e11558bef")
 		(property "Reference" "R1"
-			(at 77.47 109.22 90)
+			(at 77.47 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6157,7 +7209,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 77.47 111.76 90)
+			(at 77.47 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6167,7 +7219,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 117.348 90)
+			(at 77.47 113.538 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6178,7 +7230,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 115.57 0)
+			(at 77.47 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6189,7 +7241,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 77.47 115.57 0)
+			(at 77.47 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6215,8 +7267,273 @@
 		)
 	)
 	(symbol
+		(lib_id "WA-MTAB:WA-MTAB")
+		(at 209.55 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2e2201e-8750-41e4-a282-30a4fd6f299d")
+		(property "Reference" "MP4"
+			(at 213.36 59.6899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "7471287"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Footprint" "WA-MTAB:WA-MTAB_7471287"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.250 (6.35mm) Quick Connect Male Solder Connector Non-Insulated"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Würth Elektronik"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8564251&manufacturer=Würth Elektronik&part_name=7471287&search_term=quick connector"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "GENDER" "Male"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MOUNT" "THT"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=snap"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/7471287.pdf"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "7471287"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PITCH" "5.08mm"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PART-NUMBER" "7471287"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "BLADE-DESIGN" "6.35mm"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "TYPE" "Vertical"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=eda"
+			(at 209.55 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "0c731331-3eb7-45e1-b946-f47293fd22ec")
+		)
+		(pin "1"
+			(uuid "91a84e4b-9b24-44d1-ad61-e08607888a77")
+		)
+		(instances
+			(project "H-Bridge_Motor_Driver"
+				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
+					(reference "MP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
-		(at 245.11 100.33 270)
+		(at 245.11 96.52 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6228,7 +7545,7 @@
 		(fields_autoplaced yes)
 		(uuid "a39a098f-7c34-4a4c-ba31-3d4bf4624f9d")
 		(property "Reference" "C8"
-			(at 245.11 92.71 90)
+			(at 245.11 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6238,7 +7555,7 @@
 			)
 		)
 		(property "Value" "10uF/25V"
-			(at 245.11 95.25 90)
+			(at 245.11 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6248,7 +7565,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 99.3648 0)
+			(at 241.3 95.5548 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6259,7 +7576,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 245.11 100.33 0)
+			(at 245.11 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6270,7 +7587,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 245.11 100.33 0)
+			(at 245.11 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6297,7 +7614,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 44.45 146.05 0)
+		(at 44.45 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6308,7 +7625,7 @@
 		(fields_autoplaced yes)
 		(uuid "a50cdae8-b5e2-4878-86b4-658d0a8d4d53")
 		(property "Reference" "#PWR08"
-			(at 44.45 152.4 0)
+			(at 44.45 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6319,7 +7636,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 44.4501 149.86 90)
+			(at 44.4501 146.05 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6330,7 +7647,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 146.05 0)
+			(at 44.45 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6341,7 +7658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 146.05 0)
+			(at 44.45 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6352,7 +7669,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 146.05 0)
+			(at 44.45 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6455,7 +7772,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 252.73 146.05 0)
+		(at 252.73 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6466,7 +7783,7 @@
 		(fields_autoplaced yes)
 		(uuid "af3259c5-136f-46a7-8ccc-33875bdc129a")
 		(property "Reference" "#PWR011"
-			(at 252.73 152.4 0)
+			(at 252.73 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6477,7 +7794,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 252.7301 149.86 90)
+			(at 252.7301 146.05 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6488,7 +7805,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 252.73 146.05 0)
+			(at 252.73 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6499,7 +7816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 146.05 0)
+			(at 252.73 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6510,7 +7827,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 252.73 146.05 0)
+			(at 252.73 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6534,7 +7851,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 58.42 100.33 90)
+		(at 58.42 96.52 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6545,7 +7862,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4cc0f28-c5b1-4d21-b060-be918dab52b7")
 		(property "Reference" "#PWR07"
-			(at 64.77 100.33 0)
+			(at 64.77 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6556,7 +7873,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 100.3299 90)
+			(at 62.23 96.5199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6567,7 +7884,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 100.33 0)
+			(at 58.42 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6578,7 +7895,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 100.33 0)
+			(at 58.42 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6589,7 +7906,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 58.42 100.33 0)
+			(at 58.42 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6613,7 +7930,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 233.68 129.54 0)
+		(at 233.68 125.73 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6625,7 +7942,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5fbfbd4-cd4b-4a4f-8c8e-58495b934424")
 		(property "Reference" "C9"
-			(at 229.87 128.2699 0)
+			(at 229.87 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6636,7 +7953,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 229.87 130.8099 0)
+			(at 229.87 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6647,7 +7964,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.6452 125.73 0)
+			(at 234.6452 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6658,7 +7975,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 129.54 0)
+			(at 233.68 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6669,7 +7986,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 233.68 129.54 0)
+			(at 233.68 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6785,7 +8102,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 238.76 100.33 270)
+		(at 238.76 96.52 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6797,7 +8114,7 @@
 		(fields_autoplaced yes)
 		(uuid "c80c018c-aa6c-4234-80de-5efd7b72fa6b")
 		(property "Reference" "#PWR010"
-			(at 232.41 100.33 0)
+			(at 232.41 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6808,7 +8125,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 234.95 100.3299 90)
+			(at 234.95 96.5199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6819,7 +8136,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 238.76 100.33 0)
+			(at 238.76 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6830,7 +8147,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 238.76 100.33 0)
+			(at 238.76 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6841,7 +8158,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 238.76 100.33 0)
+			(at 238.76 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6865,7 +8182,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SS34")
-		(at 172.72 142.24 270)
+		(at 172.72 138.43 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6876,7 +8193,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb96d229-1af6-4cdb-b826-7fc14f152416")
 		(property "Reference" "D7"
-			(at 175.26 140.6524 90)
+			(at 175.26 136.8424 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6887,7 +8204,7 @@
 			)
 		)
 		(property "Value" "SS34"
-			(at 175.26 143.1924 90)
+			(at 175.26 139.3824 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6898,7 +8215,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 168.275 142.24 0)
+			(at 168.275 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6909,7 +8226,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
-			(at 172.72 142.24 0)
+			(at 172.72 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6920,7 +8237,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 172.72 142.24 0)
+			(at 172.72 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6946,8 +8263,273 @@
 		)
 	)
 	(symbol
+		(lib_id "WA-MTAB:WA-MTAB")
+		(at 209.55 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d28cab7e-8965-43f1-b3cf-63b606b30438")
+		(property "Reference" "MP2"
+			(at 213.36 39.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "7471287"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Footprint" "WA-MTAB:WA-MTAB_7471287"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.250 (6.35mm) Quick Connect Male Solder Connector Non-Insulated"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Würth Elektronik"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8564251&manufacturer=Würth Elektronik&part_name=7471287&search_term=quick connector"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "GENDER" "Male"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MOUNT" "THT"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=snap"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/7471287.pdf"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "7471287"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PITCH" "5.08mm"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PART-NUMBER" "7471287"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "BLADE-DESIGN" "6.35mm"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "TYPE" "Vertical"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/7471287/Wurth+Elektronik/view-part/?ref=eda"
+			(at 209.55 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "150e9573-afe1-473a-a313-1f0c3ca0dba5")
+		)
+		(pin "1"
+			(uuid "a7bcc385-39d1-4e73-84c1-124e64719ebf")
+		)
+		(instances
+			(project "H-Bridge_Motor_Driver"
+				(path "/36e36769-a9fb-4c60-945d-cca7993eff26"
+					(reference "MP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:SS34")
-		(at 115.57 142.24 270)
+		(at 115.57 138.43 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6958,7 +8540,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7707d23-7949-42eb-8ae1-0181b1fa2e0b")
 		(property "Reference" "D5"
-			(at 118.11 140.6524 90)
+			(at 118.11 136.8424 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6969,7 +8551,7 @@
 			)
 		)
 		(property "Value" "SS34"
-			(at 118.11 143.1924 90)
+			(at 118.11 139.3824 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6980,7 +8562,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 111.125 142.24 0)
+			(at 111.125 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6991,7 +8573,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
-			(at 115.57 142.24 0)
+			(at 115.57 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7002,7 +8584,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 115.57 142.24 0)
+			(at 115.57 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7029,7 +8611,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 123.19 114.3 180)
+		(at 123.19 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7039,7 +8621,7 @@
 		(dnp no)
 		(uuid "d8abe374-d83b-4a6a-9999-b3e7a03d68eb")
 		(property "Reference" "C5"
-			(at 126.492 115.57 0)
+			(at 126.492 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7050,7 +8632,7 @@
 			)
 		)
 		(property "Value" "1000uF/50V"
-			(at 125.476 117.856 0)
+			(at 125.476 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7061,7 +8643,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 122.2248 110.49 0)
+			(at 122.2248 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7072,7 +8654,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 114.3 0)
+			(at 123.19 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7083,7 +8665,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 123.19 114.3 0)
+			(at 123.19 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7110,7 +8692,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRF3205")
-		(at 96.52 142.24 0)
+		(at 96.52 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7121,7 +8703,7 @@
 		(fields_autoplaced yes)
 		(uuid "d922dcb6-e7fc-4a8e-bc10-808cf42e10f6")
 		(property "Reference" "Q2"
-			(at 102.87 140.9699 0)
+			(at 102.87 137.1599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7132,7 +8714,7 @@
 			)
 		)
 		(property "Value" "IRF3205"
-			(at 102.87 143.5099 0)
+			(at 102.87 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7143,7 +8725,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 101.6 144.145 0)
+			(at 101.6 140.335 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7156,7 +8738,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf3205.pdf"
-			(at 101.6 146.05 0)
+			(at 101.6 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7168,7 +8750,7 @@
 			)
 		)
 		(property "Description" "110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB"
-			(at 96.52 142.24 0)
+			(at 96.52 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7198,7 +8780,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SS34")
-		(at 115.57 119.38 270)
+		(at 115.57 115.57 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7209,7 +8791,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0bfad9e-bf91-4e1a-8b99-6f39550e18bf")
 		(property "Reference" "D4"
-			(at 118.11 117.7924 90)
+			(at 118.11 113.9824 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7220,7 +8802,7 @@
 			)
 		)
 		(property "Value" "SS34"
-			(at 118.11 120.3324 90)
+			(at 118.11 116.5224 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7231,7 +8813,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 111.125 119.38 0)
+			(at 111.125 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7242,7 +8824,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
-			(at 115.57 119.38 0)
+			(at 115.57 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7253,7 +8835,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 115.57 119.38 0)
+			(at 115.57 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7438,7 +9020,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 77.47 127 0)
+		(at 77.47 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7449,7 +9031,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6db3869-c634-4544-a3d8-981939315f7f")
 		(property "Reference" "D2"
-			(at 77.47 120.65 0)
+			(at 77.47 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7459,7 +9041,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 77.47 123.19 0)
+			(at 77.47 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7469,7 +9051,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 77.47 131.445 0)
+			(at 77.47 127.635 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7480,7 +9062,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 77.47 127 0)
+			(at 77.47 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7491,7 +9073,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 77.47 127 0)
+			(at 77.47 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7502,7 +9084,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 77.47 127 0)
+			(at 77.47 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7513,7 +9095,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 127 0)
+			(at 77.47 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7540,7 +9122,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SS34")
-		(at 241.3 113.03 0)
+		(at 241.3 109.22 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -7552,7 +9134,7 @@
 		(fields_autoplaced yes)
 		(uuid "fe930870-3f3c-41a4-84e7-809a5b70a4ec")
 		(property "Reference" "D8"
-			(at 240.9825 106.68 0)
+			(at 240.9825 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7562,7 +9144,7 @@
 			)
 		)
 		(property "Value" "SS34"
-			(at 240.9825 109.22 0)
+			(at 240.9825 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7572,7 +9154,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 241.3 108.585 0)
+			(at 241.3 104.775 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7583,7 +9165,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
-			(at 241.3 113.03 0)
+			(at 241.3 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7594,7 +9176,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 241.3 113.03 0)
+			(at 241.3 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
